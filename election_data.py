@@ -25,7 +25,7 @@ with open(election_data.csv) as csv_file:
     num_votes = num_votes + 1
 
     #voted for candidate
-    candiate = line[2]
+    candiate = row[2]
 
     #if other votes are present for a candidate
     if candidate in candidates:
