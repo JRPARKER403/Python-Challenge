@@ -66,10 +66,3 @@ print("---------------------")
    
    
    
-   
-   
-    #create a new spot if candidate not in the list
-    
-    
-
->>>>>>> aff187f9eec5999b6322393882f040d6c25b6041:election_data.py
